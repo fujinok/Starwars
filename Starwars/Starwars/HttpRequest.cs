@@ -17,12 +17,12 @@ namespace Starwars
     public class HttpRequest : IHttpRequest
     {
         /// <summary>
-        /// The target Uri
+        /// The target Uri.
         /// </summary>
         private readonly Uri Uri;
 
         /// <summary>
-        /// The response time out as a TimeSpan instance
+        /// The response time out as a TimeSpan instance.
         /// </summary>
         private TimeSpan Timeout { get; set; } = new TimeSpan(0, 1, 40);
 
