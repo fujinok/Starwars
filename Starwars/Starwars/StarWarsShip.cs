@@ -4,7 +4,7 @@ using System;
 namespace Starwars
 {
     /// <summary>
-    /// 
+    /// Start up class.
     /// </summary>
     class Starwars
     {
