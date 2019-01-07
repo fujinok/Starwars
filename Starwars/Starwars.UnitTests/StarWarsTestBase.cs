@@ -6,7 +6,7 @@ using Starwars.Service;
 namespace Starwars.UnitTests
 {
     /// <summary>
-    /// 
+    /// Base Class for Unit Tests
     /// </summary>
     [TestClass]
     public class StarWarsTestBase
