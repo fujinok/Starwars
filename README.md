@@ -4,7 +4,7 @@ Written in C# .NET Core 2.1 VS 2017
 
 steps to run:
 
-Pull Repo locally
+Clone/Download Repo locally
 
 Build using Visual Studio
 
